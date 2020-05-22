@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="TIMP_Pract" Database="" Version="10.0.0">
+  <Project Name="Net" Path="Net/Net.project" Active="No"/>
+  <Project Name="echo" Path="echo/echo.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Net" ConfigName="Debug"/>
+      <Project Name="echo" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Net" ConfigName="Release"/>
+      <Project Name="echo" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
